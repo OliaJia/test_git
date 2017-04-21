@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# test git",
+    "created" : 1492799623014.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3147595806",
+    "id" : "B0426AE7",
+    "lastKnownWriteTime" : 1492799640,
+    "last_content_update" : 1492799640672,
+    "path" : "~/test_git/test_git.R",
+    "project_path" : "test_git.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
